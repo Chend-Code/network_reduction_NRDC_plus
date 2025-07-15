@@ -2,7 +2,7 @@
 @File    :   utils.py
 @Time    :   2025/4/28 14:31:10
 @Author  :   chend
-@Contact :   chend_zqfpu@163.com
+@Contact :   chend_zqfpu@163.com;  danchen@wtu.edu.cn
 """
 import networkx as nx
 import numpy as np

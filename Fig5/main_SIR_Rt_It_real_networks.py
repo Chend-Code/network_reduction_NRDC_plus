@@ -9,7 +9,7 @@ if __name__ == '__main__':
     tmin, tmax = 0.0, 6.0
     t = np.linspace(tmin, tmax, 51)
 
-    for net_label in range(1):
+    for net_label in range(2):
         print(filename[net_label])
         G = load_graph_data(filename[net_label])
         N = len(G)
